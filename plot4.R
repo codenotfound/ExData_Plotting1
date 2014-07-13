@@ -60,7 +60,7 @@ with(data,
 
 legend("topright", 
        lty=1, 
-       col=c("black", "blue", "red"), 
+       col=c("black", "red", "blue"), 
        legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), 
        bty="n")
 
